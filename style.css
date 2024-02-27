@@ -1,0 +1,14 @@
+div{
+    font-size: x-large;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+#sform{
+    position: relative;
+    left: 500px;
+    
+    
+}
